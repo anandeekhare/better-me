@@ -1,2 +1,2 @@
 #better me app 
-my full stack pp 
+my full stack app 
